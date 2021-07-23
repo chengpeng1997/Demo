@@ -18,14 +18,6 @@
       "required": false
     },
     {
-      "id": "c_author",
-      "required": false
-    },
-    {
-      "id": "c_bodyText",
-      "required": false
-    },
-    {
       "id": "yext/folder",
       "required": false
     },
