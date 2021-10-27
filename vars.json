@@ -1,0 +1,16 @@
+
+   
+{
+        "zendeskSubdomain": {
+                "displayName": "Zendesk Subdomain",
+                "toolTip": "Your Zendesk subdomain, should not include .zendesk.com -- ex: yext for yext.zendesk.com",
+                "type": "url"
+        },
+        "businessId": {
+                "displayName": "Business ID"
+        },
+        "autoGenerateSitemap": {
+                "displayName": "Auto-generate Site Map",
+                "type": "boolean"
+        }
+}
