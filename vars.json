@@ -10,6 +10,6 @@
                 "type": "number"
         },
         "autoGenerateSitemap": {
-                "displayName": "Business ID"
+                "type": "number"
         }
 }
