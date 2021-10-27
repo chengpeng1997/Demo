@@ -9,5 +9,7 @@
                 "displayName": "Business ID",
                 "type": "number"
         },
-        "autoGenerateSitemap": []
+        "autoGenerateSitemap": {
+                "displayName": "Business ID"
+        }
 }
