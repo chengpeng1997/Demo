@@ -7,7 +7,7 @@
         },
         "businessId": {
                 "displayName": "Business ID",
-                "type": "number"
+                "type": "invalid"
         },
         "autoGenerateSitemap": {
                 "type": "number"
