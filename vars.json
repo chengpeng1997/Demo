@@ -10,6 +10,5 @@
                 "type": "invalid"
         },
         "autoGenerateSitemap": {
-                "type": "number"
         }
 }
