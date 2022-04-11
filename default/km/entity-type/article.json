@@ -2,11 +2,11 @@
   "$id": "ce_article",
   "$schema": "https://schema.yext.com/config/km/entity-type/v1",
   "description": "An insights article from UBS Wealth Management",
-  "displayName": "Article",
+  "displayName": "${{zendeskSubdomain}}",
   "enabled": true,
   "field": [
     {
-      "id": "yext/datePosted",
+      "id": "${{businessId}}",
       "required": false
     },
     {
@@ -30,5 +30,5 @@
       "required": true
     }
   ],
-  "pluralDisplayName": "Articles"
+  "pluralDisplayName": "${{autoGenerateSitemap}}"
 }
